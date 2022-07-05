@@ -14,7 +14,8 @@ LSE_DA_COVID_analysis
 
 
 **Did you notice anything interesting about the data?** The data sets whilst purpoting to be real world are unlikely to be. Perhaps in the interest of masking the data, the relative scales of the data sets versus actual population in each of the real world locations are vastly out of sync. This is very off putting & prevented the generation of some additional potentially powerful insights using actual population data. However, for the academic purposes of this exercise, the data being mis-scaled didnt impede the display of the analytical techniques which we were taught to deploy. 
-Pandas generate automatic indexes for each row and column in the DataFrame. 
+
+
 **What are some of the initial insights you've discovered?** No major insights so far from Twitter data; its too small. The remainder of the data set was noisy but useful to visualise and combine with the Twitter data to pencil in a story board.
 
 
