@@ -22,7 +22,12 @@ LSE_DA_COVID_analysis
 All my observations arising from the data analysis are noted in the Jupyter noteblock underneath the corresponding code block.
 
 
-The overall conclusions + methodology, background & problem statement are outlined in the written report.
+The overall conclusions + methodology, background & problem statement are outlined in the written report in PDF.
 
 
-The Jupyter notebook with all the codes, functions & visualisations is the final output of all the weekly assignments.
+The Jupyter notebook with all the codes, rationale, functions & visualisations is the final output of all the weekly assignments and saved as ipnyb file. All major visualisations within the notebook have been exported and saved as png files.
+
+
+A short video recording presenting the key insights, trends, patterns & recommendations; saved as mp4.
+
+
